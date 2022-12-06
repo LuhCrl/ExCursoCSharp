@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\Exercícios propostos - 7.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\Exercícios propostos - 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\Exercícios propostos - 7.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\Exercícios propostos - 7.AssemblyInfo.cs
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\Exercícios propostos - 7.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\bin\Debug\net7.0\Exercícios propostos - 7.exe
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\bin\Debug\net7.0\Exercícios propostos - 7.deps.json
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\bin\Debug\net7.0\Exercícios propostos - 7.runtimeconfig.json
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\bin\Debug\net7.0\Exercícios propostos - 7.dll
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\bin\Debug\net7.0\Exercícios propostos - 7.pdb
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\Exercícios propostos - 7.dll
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\refint\Exercícios propostos - 7.dll
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\Exercícios propostos - 7.pdb
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\Exercícios propostos - 7.genruntimeconfig.cache
+C:\Users\lucas\source\repos\CursoCSharp\Exercícios propostos - 7\Exercícios propostos - 7\obj\Debug\net7.0\ref\Exercícios propostos - 7.dll
