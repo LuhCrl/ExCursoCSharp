@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\bin\Debug\net7.0\Exercícios propostos - 9.exe
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\bin\Debug\net7.0\Exercícios propostos - 9.deps.json
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\bin\Debug\net7.0\Exercícios propostos - 9.runtimeconfig.json
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\bin\Debug\net7.0\Exercícios propostos - 9.dll
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\bin\Debug\net7.0\Exercícios propostos - 9.pdb
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\Exercícios propostos - 9.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\Exercícios propostos - 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\Exercícios propostos - 9.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\Exercícios propostos - 9.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\Exercícios propostos - 9.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\Exercícios propostos - 9.dll
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\refint\Exercícios propostos - 9.dll
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\Exercícios propostos - 9.pdb
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\Exercícios propostos - 9.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\Exercícios propostos - 9\Exercícios propostos - 9\obj\Debug\net7.0\ref\Exercícios propostos - 9.dll
