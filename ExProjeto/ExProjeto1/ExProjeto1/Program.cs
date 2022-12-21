@@ -1,7 +1,8 @@
 ﻿using System;
 using ExProjeto1;
 
-
+string newemail;
+string cnewemail;
 int changeone;
 string oldemail;
 
@@ -15,7 +16,7 @@ int N = int.Parse(Console.ReadLine());
 
 for(int i = 0; i < N; i++)
 {
-    Console.WriteLine($"Rent #{i}: ");
+    Console.WriteLine($"Rent #{i+1}: ");
     Console.Write("Name: ");
     string name = Console.ReadLine();
 
@@ -31,13 +32,13 @@ for(int i = 0; i < N; i++)
     est.Email = email;
 }
 
-    
+
 
 Console.WriteLine("Menu: ");
 Console.WriteLine("[1] Profile");
 Console.WriteLine("[2] See available rooms");
 int? x = int.Parse(Console.ReadLine());
-
+Console.Clear();
 switch (x)
 {
     case 1:
@@ -56,12 +57,24 @@ switch (x)
                 if (oldemail == est.Email)
                 {
                     Console.WriteLine("New Email: ");
-                    string newemail = Console.ReadLine();
-                    est.Change(newemail);
-                    changeone = 1;
+                    newemail = Console.ReadLine();                 
+                    do {
+                        Console.WriteLine("Confirm Email: ");
+                        cnewemail = Console.ReadLine();
+                        Console.Clear();
+                    }while(cnewemail != newemail);
+                    if (newemail == cnewemail)
+                    {
+                        est.Change(cnewemail);
+                    }
 
+                    Console.WriteLine();
+                    changeone = 1;
                 }
+                Console.Clear();
             } while (oldemail != est.Email && changeone == 0 );
+
+            Console.WriteLine("successful exchange: ");
         }
         break;
 
