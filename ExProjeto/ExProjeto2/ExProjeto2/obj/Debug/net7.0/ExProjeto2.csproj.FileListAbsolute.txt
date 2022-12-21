@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\bin\Debug\net7.0\ExProjeto2.exe
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\bin\Debug\net7.0\ExProjeto2.deps.json
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\bin\Debug\net7.0\ExProjeto2.runtimeconfig.json
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\bin\Debug\net7.0\ExProjeto2.dll
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\bin\Debug\net7.0\ExProjeto2.pdb
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ExProjeto2.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ExProjeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ExProjeto2.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ExProjeto2.AssemblyInfo.cs
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ExProjeto2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ExProjeto2.dll
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\refint\ExProjeto2.dll
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ExProjeto2.pdb
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ExProjeto2.genruntimeconfig.cache
+C:\Users\lucas\source\repos\ExCursoCsharp\ExCursoCSharp\ExProjeto\ExProjeto2\ExProjeto2\obj\Debug\net7.0\ref\ExProjeto2.dll

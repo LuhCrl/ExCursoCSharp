@@ -6,7 +6,6 @@ string cnewemail;
 int changeone;
 string oldemail;
 
-
 Estudantes est = new Estudantes();
 Estudantes[] rooms = new Estudantes[10];
 
@@ -33,13 +32,16 @@ for(int i = 0; i < N; i++)
 }
 
 
-
-Console.WriteLine("Menu: ");
-Console.WriteLine("[1] Profile");
-Console.WriteLine("[2] See available rooms");
-int? x = int.Parse(Console.ReadLine());
+do
+{
+    Console.Clear();
+    Console.WriteLine("Menu: ");
+    Console.WriteLine("[1] Profile");
+    Console.WriteLine("[2] See available rooms");
+    menu = int.Parse(Console.ReadLine());
+} while (menu != 1 || menu !=2);
 Console.Clear();
-switch (x)
+switch (menu)
 {
     case 1:
         Console.WriteLine($"Name: {est.Name}");
