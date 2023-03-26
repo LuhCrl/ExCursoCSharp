@@ -17,15 +17,17 @@ namespace ExProjeto1
         {
 
         }
-        public Estudantes(string name)
+        public Estudantes(string name, string email)
         {
             Name = name;
+            Email = email;
         }
 
         public void Change(string change)
         {
             Email = change;
         }
+   
 
 
         public override string ToString()

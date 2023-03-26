@@ -1,9 +1,15 @@
 ﻿using System;
 using ExProjeto1;
 
+string name;
+string email;
+int room = 0;
+
+
 string newemail;
 string cnewemail;
 int changeone;
+int? menu;
 string oldemail;
 
 Estudantes est = new Estudantes();
@@ -13,33 +19,70 @@ Estudantes[] rooms = new Estudantes[10];
 Console.Write("How Many rooms will be rented? ");
 int N = int.Parse(Console.ReadLine());
 
+
 for(int i = 0; i < N; i++)
 {
     Console.WriteLine($"Rent #{i+1}: ");
     Console.Write("Name: ");
-    string name = Console.ReadLine();
+    name = Console.ReadLine();
 
     Console.Write("Email: ");
-    string email = Console.ReadLine();
+    email = Console.ReadLine();
 
     Console.Write("Room: ");
-    int room = int.Parse(Console.ReadLine());
+    room = int.Parse(Console.ReadLine());
 
-    rooms[room] = new Estudantes(name);
+    rooms[room] = new Estudantes(name, email);
 
-    est.Name = name;
-    est.Email = email;
+  
 }
+
+
+    Console.Clear();
+    Console.WriteLine("Digite seu nome de usuario:");
+    string cname = Console.ReadLine();
+    Console.WriteLine("Digite Seu email cadastrado:");
+    string cemail = Console.ReadLine();
+
+    for(int i = 0; i < 10; i++)
+    {
+        if (rooms[i] != null)
+        {
+            string s1 = rooms[i].Name;
+            string s2 = rooms[i].Email;
+            if(s1 == cname && s2 == cemail)
+            {
+
+            Console.WriteLine("Sucesso");
+
+
+            }
+    
+
+
+
+
+
+
+
+        }
+    }
+
+
+Console.WriteLine();
+Console.WriteLine();
+
+
 
 
 do
 {
-    Console.Clear();
+  
     Console.WriteLine("Menu: ");
     Console.WriteLine("[1] Profile");
     Console.WriteLine("[2] See available rooms");
     menu = int.Parse(Console.ReadLine());
-} while (menu != 1 || menu !=2);
+} while (menu != 1 && menu !=2);
 Console.Clear();
 switch (menu)
 {
@@ -96,5 +139,7 @@ switch (menu)
             }
         }
         break;
+
     
 }
+
